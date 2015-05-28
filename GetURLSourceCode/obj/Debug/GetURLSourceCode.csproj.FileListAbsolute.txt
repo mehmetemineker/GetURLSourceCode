@@ -1,0 +1,9 @@
+D:\GetURLSourceCode\GetURLSourceCode\bin\Debug\GetURLSourceCode.exe.config
+D:\GetURLSourceCode\GetURLSourceCode\bin\Debug\GetURLSourceCode.exe
+D:\GetURLSourceCode\GetURLSourceCode\bin\Debug\GetURLSourceCode.pdb
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.csprojResolveAssemblyReference.cache
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.FormMain.resources
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.Properties.Resources.resources
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.csproj.GenerateResource.Cache
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.exe
+D:\GetURLSourceCode\GetURLSourceCode\obj\Debug\GetURLSourceCode.pdb
